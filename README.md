@@ -1,7 +1,7 @@
 ![GitHub Student Developer Pack](https://img.shields.io/badge/GitHub%20Student%20Pack-Active-brightgreen?logo=github)
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/127833781?v=4" width="140" style="border-radius:50%;" />
+  <img src="https://res.cloudinary.com/duwg1mctb/image/upload/v1749488207/giphy-ezgif.com-speed_webme5.gif" width="260" />
 </p>
 
 <p align="center">
